@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b91c1c,100:dc2626&height=220&section=header&text=666MIDNIGHTDEV&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Junior%20Dev%20%7C%20Laravel%20%7C%20Python%20%7C%20Building%20Real%20Systems&descSize=14&descAlignY=55&animation=twinkling&gradientType=0"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Junior+Dev+Who+Builds+Real+Systems;Laravel+ERP+%26+Web+Apps;Python+%26+AI+Side+Quests;Learning+%26+Building+Every+Day)</div>
-
-<br/>
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=666midnightdev&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/666midnightdev?label=Followers&style=for-the-badge&color=dc2626)
 
@@ -15,48 +7,10 @@
 
 <br/>
 
----
-
-### 🧑‍💻 About Me
-
-```php
-<?php
-
-class JuniorDev
-{
-    private string $name     = "666midnightdev";
-    private string $role     = "Junior Developer";
-    private string $location = "Indonesia";
-
-    private array $stack     = [
-        "Primary"   => "PHP, Laravel, Blade, MySQL",
-        "Secondary" => "Python, FastAPI, Vanilla JS",
-        "Learning"  => "AI integration, system design, clean code",
-    ];
-
-    private array $projects  = [
-        "ERP System"         => "Production multi-branch retail ERP",
-        "Product Customizer"  => "Canvas editor for custom products",
-        "AI Assistant"       => "Desktop bot with messaging integration",
-    ];
-
-    public function goal(): string
-    {
-        return "Build reliable systems that solve real problems.";
-    }
-}
-```
-
+<div align="center" style="position: relative; display: inline-block;">
+<img src="https://raw.githubusercontent.com/666midnightdev/666midnightdev/master/pet.svg" width="100" style="position: absolute; top: -20px; right: 50px; z-index: 10;"/>
 <br/>
-
----
-
-### 🐱 My Coding Companion
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/666midnightdev/666midnightdev/master/pet.svg" width="150"/>
-<br/>
-<sub>Pixel kitty keeps me company during late night coding sessions</sub>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=666midnightdev&bg_color=0d1117&color=dc2626&line=dc2626&point=ffffff&area_color=dc2626&area=true&hide_border=false&custom_title=GitHub%20Contribution%20Graph)
 </div>
 
 <br/>
@@ -216,26 +170,6 @@ class JuniorDev
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=666midnightdev&theme=radical&background=0d1117&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681)
-
-</div>
-
-<br/>
-
----
-
-### 🌙 Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=666midnightdev&bg_color=0d1117&color=dc2626&line=dc2626&point=ffffff&area_color=dc2626&area=true&hide_border=false&custom_title=GitHub%20Contribution%20Graph)
-
-<br/>
-
----
-
-### 🌟 Random Fact
-
-<div align="center">
-
-*"I debug production ERP systems at midnight and build AI assistants for fun."*
 
 </div>
 
