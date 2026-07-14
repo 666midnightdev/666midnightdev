@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b91c1c,100:dc2626&height=220&section=header&text=666MIDNIGHTDEV&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ERP%20Architect%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=55&animation=twinkling&gradientType=0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b91c1c,100:dc2626&height=220&section=header&text=666MIDNIGHTDEV&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Junior%20Dev%20%7C%20Laravel%20%7C%20Python%20%7C%20Building%20Real%20Systems&descSize=14&descAlignY=55&animation=twinkling&gradientType=0"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Laravel+ERP+%26+Web+App+Architect;Building+Real+Business+Systems;AI+Desktop+Automation+%26+Bots;PHP+%7C+Python+%7C+Laravel+%7C+FastAPI)</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Junior+Dev+Who+Builds+Real+Systems;Laravel+ERP+%26+Web+Apps;Python+%26+AI+Side+Quests;Learning+%26+Building+Every+Day)</div>
 
 <br/>
 
@@ -10,7 +10,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=666midnightdev&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/666midnightdev?label=Followers&style=for-the-badge&color=dc2626)
-![GitHub stars](https://img.shields.io/github/stars/666midnightdev?label=Stars&style=for-the-badge&color=06b6d4)
 
 </div>
 
@@ -23,33 +22,42 @@
 ```php
 <?php
 
-class Developer implements FullStack, ERPArchitect
+class JuniorDev
 {
-    private string $name        = "666midnightdev";
-    private string $role        = "Full-Stack Developer & ERP Architect";
-    private string $location    = "Indonesia 🇮🇩";
+    private string $name     = "666midnightdev";
+    private string $role     = "Junior Developer";
+    private string $location = "Indonesia";
 
-    private array $expertise    = [
-        "ERP Systems"         => "Multi-branch RBAC, approval state machines, real-time inventory",
-        "Product Customizers"  => "Canvas editors, drag/drop/rotate, live preview",
-        "Business Automation"  => "Stock opname, financial dashboards, Excel import/export",
-        "AI & Bot Engineering" => "LLM integration, WhatsApp/Telegram bots, desktop automation",
+    private array $stack     = [
+        "Primary"   => "PHP, Laravel, Blade, MySQL",
+        "Secondary" => "Python, FastAPI, Vanilla JS",
+        "Learning"  => "AI integration, system design, clean code",
     ];
 
-    private array $stack        = [
-        "Backend"   => "PHP 8.3+, Laravel 13, Python, FastAPI",
-        "Frontend"  => "Blade, Tailwind CSS 4, Vite, Bootstrap 5, Vanilla JS",
-        "Database"  => "MySQL, SQLite",
-        "Tools"     => "ONLYOFFICE, DomPDF, Maatwebsite Excel, Chart.js",
-        "DevOps"    => "Git, WSL, Linux server management",
+    private array $projects  = [
+        "ERP System"         => "Production multi-branch retail ERP",
+        "Product Customizer"  => "Canvas editor for custom products",
+        "AI Assistant"       => "Desktop bot with messaging integration",
     ];
 
-    public function currently(): string
+    public function goal(): string
     {
-        return "Building ERP & web systems for real businesses";
+        return "Build reliable systems that solve real problems.";
     }
 }
 ```
+
+<br/>
+
+---
+
+### 🐱 My Coding Companion
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/666midnightdev/666midnightdev/master/pet.svg" width="150"/>
+<br/>
+<sub>Pixel kitty keeps me company during late night coding sessions</sub>
+</div>
 
 <br/>
 
@@ -81,7 +89,7 @@ class Developer implements FullStack, ERPArchitect
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48"/>
-<br><b>Tailwind CSS</b>
+<br><b>Tailwind</b>
 </td>
 </tr>
 <tr>
@@ -127,8 +135,7 @@ class Developer implements FullStack, ERPArchitect
 
 - **Stack**: Laravel 13, PHP 8.3, Bootstrap 5, Chart.js
 - **Features**: RBAC multi-branch, approval state machine, stock opname via ONLYOFFICE, real-time financial dashboards, Excel import/export, audit logging
-- **Modules**: Sales, inventory, cash transactions, salaries, deposits, daily submissions
-- **Status**: `🔒 Private — Production`
+- **Status**: `Private - Production`
 
 </td>
 <td width="50%" valign="top">
@@ -138,8 +145,7 @@ class Developer implements FullStack, ERPArchitect
 
 - **Stack**: Laravel 13, Tailwind CSS 4, Vite 8, Canvas API
 - **Features**: Vanilla JS canvas editor with zoom/pan/rotate, drag & drop layers, live preview, PNG export, admin dashboard
-- **Products**: Case, tumbler, mug, sandal, akrilik
-- **Status**: `🔒 Private`
+- **Status**: `Private`
 
 </td>
 </tr>
@@ -150,7 +156,7 @@ class Developer implements FullStack, ERPArchitect
 > Web-based monitoring & metrics platform
 
 - **Stack**: Laravel, SCSS
-- **Status**: `🔒 Private`
+- **Status**: `Private`
 
 </td>
 <td width="50%" valign="top">
@@ -160,7 +166,7 @@ class Developer implements FullStack, ERPArchitect
 
 - **Stack**: Python, FastAPI, Vanilla JS, Baileys, PyAutoGUI
 - **Features**: SSE streaming chat, WhatsApp & Telegram bot control, desktop automation via SSH + Claude CLI, multi-session
-- **Status**: `🟢 Public` — [midnight-cowork](https://github.com/666midnightdev/midnight-cowork)
+- **Status**: `Public` - [midnight-cowork](https://github.com/666midnightdev/midnight-cowork)
 
 </td>
 </tr>
@@ -170,30 +176,26 @@ class Developer implements FullStack, ERPArchitect
 
 ---
 
-### 💡 What I Do
+### 💡 What I'm Building
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   🏗️  ERP & BUSINESS SYSTEMS                                   │
-│       Multi-branch RBAC · Approval State Machines               │
-│       Real-time Inventory · Financial Dashboards                │
-│       Stock Opname · Excel/PDF Import & Export                  │
-│                                                                 │
-│   🎨  PRODUCT CUSTOMIZERS                                      │
-│       Canvas Editors · Drag/Drop/Rotate Layers                  │
-│       Live Preview · PNG Export · Admin Dashboard               │
-│                                                                 │
-│   🤖  AI & AUTOMATION                                          │
-│       LLM Integration · WhatsApp/Telegram Bots                  │
-│       Desktop Automation · SSH Remote Execution                 │
-│                                                                 │
-│   📱  MOBILE & WEB APPS                                        │
-│       Laravel + Blade · Tailwind CSS · REST APIs                │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
++-------------------------------------------------------------------+
+|                                                                     |
+|   ERP & BUSINESS SYSTEMS                                           |
+|       Approval workflows - Multi-branch RBAC                       |
+|       Real-time inventory - Financial dashboards                    |
+|                                                                     |
+|   PRODUCT CUSTOMIZERS                                              |
+|       Canvas editors - Drag/drop layers                             |
+|       Live preview - PNG export                                     |
+|                                                                     |
+|   AI & AUTOMATION                                                  |
+|       LLM integration - WhatsApp/Telegram bots                     |
+|       Desktop automation - SSH remote execution                     |
+|                                                                     |
++-------------------------------------------------------------------+
 ```
 
 </div>
@@ -214,18 +216,6 @@ class Developer implements FullStack, ERPArchitect
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=666midnightdev&theme=radical&background=0d1117&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681)
-
-</div>
-
-<br/>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=666midnightdev&theme=radical&no-frame=false&no-bg=true&column=7&margin-w=10&margin-h=10&bg_color=0d1117&ring=dc2626&title_color=dc2626)
 
 </div>
 
