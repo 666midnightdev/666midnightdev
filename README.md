@@ -1,7 +1,7 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=666midnightdev&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/666midnightdev?label=Followers&style=for-the-badge&color=dc2626)
+![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-5942-2da44e?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/666midnightdev?label=Followers&style=for-the-badge&color=2da44e)
 
 </div>
 
@@ -11,7 +11,11 @@
 <img src="https://raw.githubusercontent.com/666midnightdev/666midnightdev/master/pet.svg" width="60"/>
 </div>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=666midnightdev&bg_color=0d1117&color=2da44e&line=2da44e&point=ffffff&area_color=2da44e&area=true&hide_border=false)
+<div align="center">
+
+![GitHub Contributions](https://github-contributions.vercel.app/api/v1/666midnightdev?theme=dark&tile_size=12)
+
+</div>
 
 <br/>
 
@@ -160,14 +164,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=666midnightdev&show_icons=true&theme=radical&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=666midnightdev&layout=compact&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&border_color=30363d&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=666midnightdev&show_icons=true&theme=radical&bg_color=0d1117&title_color=2da44e&icon_color=2da44e&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=666midnightdev&layout=compact&theme=radical&bg_color=0d1117&title_color=2da44e&text_color=c9d1d9&border_color=30363d&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=666midnightdev&theme=radical&background=0d1117&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=666midnightdev&theme=radical&background=0d1117&ring=2da44e&fire=2da44e&currStreakLabel=2da44e&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681)
 
 </div>
 
