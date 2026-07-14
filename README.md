@@ -98,6 +98,12 @@
 <br><b>Bootstrap</b>
 </td>
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="48" height="48"/>
+<br><b>Cloudflare</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="48" height="48"/>
 <br><b>Chart.js</b>
 </td>
@@ -164,14 +170,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=666midnightdev&hide=prs&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&icon_color=2da44e&title_color=2da44e&theme=transparent" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=666midnightdev&layout=compact&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=2da44e&langs_count=8&theme=transparent" width="400"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=666midnightdev&background=0d1117&border=30363d&ring=2da44e&fire=2da44e&currStreakLabel=2da44e&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&theme=transparent)
+| | |
+|:---:|:---:|
+| **Total Contributions** | **502** |
+| **Total Commits** | **650+** |
+| **Current Streak** | **180 Days** |
+| **Longest Streak** | **180 Days** |
+| **Repositories** | **9** |
 
 </div>
 
