@@ -107,6 +107,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="48" height="48"/>
 <br><b>Chart.js</b>
 </td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
+<br><b>Hermes</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openclaw/openclaw-original.svg" width="48" height="48"/>
+<br><b>OpenClaw</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="48" height="48"/>
+<br><b>Baileys</b>
+</td>
 </tr>
 </table>
 
@@ -170,13 +182,11 @@
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| **Total Contributions** | **502** |
-| **Total Commits** | **650+** |
-| **Current Streak** | **180 Days** |
-| **Longest Streak** | **180 Days** |
-| **Repositories** | **9** |
+| Total Contributions | Total Commits | Current Streak | Longest Streak |
+|:---:|:---:|:---:|:---:|
+| **502** | **650+** | **180 Days** | **180 Days** |
+| Repositories | Public Repos | Private Repos | Profile Views |
+| **9** | **2** | **7** | **5,942** |
 
 </div>
 
