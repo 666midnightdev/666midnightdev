@@ -7,11 +7,11 @@
 
 <br/>
 
-<div align="center" style="position: relative; display: inline-block;">
-<img src="https://raw.githubusercontent.com/666midnightdev/666midnightdev/master/pet.svg" width="100" style="position: absolute; top: -20px; right: 50px; z-index: 10;"/>
-<br/>
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=666midnightdev&bg_color=0d1117&color=dc2626&line=dc2626&point=ffffff&area_color=dc2626&area=true&hide_border=false&custom_title=GitHub%20Contribution%20Graph)
+<div align="center">
+<img src="https://raw.githubusercontent.com/666midnightdev/666midnightdev/master/pet.svg" width="60"/>
 </div>
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=666midnightdev&bg_color=0d1117&color=dc2626&line=dc2626&point=ffffff&area_color=dc2626&area=true&hide_border=false)
 
 <br/>
 
@@ -60,6 +60,10 @@
 <br><b>Node.js</b>
 </td>
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/>
+<br><b>Docker</b>
+</td>
+<td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
 <br><b>Linux</b>
 </td>
@@ -67,9 +71,31 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
 <br><b>Git</b>
 </td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48"/>
+<br><b>Kotlin</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48"/>
+<br><b>Android</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" width="48" height="48"/>
+<br><b>Capacitor</b>
+</td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/>
 <br><b>HTML5</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/>
+<br><b>Bootstrap</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="48" height="48"/>
+<br><b>Chart.js</b>
 </td>
 </tr>
 </table>
@@ -130,40 +156,12 @@
 
 ---
 
-### 💡 What I'm Building
-
-<div align="center">
-
-```
-+-------------------------------------------------------------------+
-|                                                                     |
-|   ERP & BUSINESS SYSTEMS                                           |
-|       Approval workflows - Multi-branch RBAC                       |
-|       Real-time inventory - Financial dashboards                    |
-|                                                                     |
-|   PRODUCT CUSTOMIZERS                                              |
-|       Canvas editors - Drag/drop layers                             |
-|       Live preview - PNG export                                     |
-|                                                                     |
-|   AI & AUTOMATION                                                  |
-|       LLM integration - WhatsApp/Telegram bots                     |
-|       Desktop automation - SSH remote execution                     |
-|                                                                     |
-+-------------------------------------------------------------------+
-```
-
-</div>
-
-<br/>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=666midnightdev&show_icons=true&theme=radical&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=666midnightdev&layout=compact&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&border_color=30363d&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=666midnightdev&layout=compact&theme=radical&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&border_color=30363d&langs_count=8"/>
 
 </div>
 
