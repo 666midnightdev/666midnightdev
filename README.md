@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![GitHub Contributions](https://github-contributions.vercel.app/api/v1/666midnightdev?theme=dark&tile_size=12)
+![GitHub Contributions](https://ghchart.rshah.org/2da44e/666midnightdev)
 
 </div>
 
