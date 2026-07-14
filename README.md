@@ -107,6 +107,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="48" height="48"/>
 <br><b>Chart.js</b>
 </td>
+<td align="center" width="96">
+<img src="https://agentlocker.ai/static/uploads/ac3292ea-f056-4667-a3a8-f3c5e1467242_hermes.webp" width="48" height="48"/>
+<br><b>Hermes</b>
+</td>
+<td align="center" width="96">
+<img src="https://www.vultr.com/marketplace-assets/vultr-labs-openclaw-small-1773086600.png" width="48" height="48"/>
+<br><b>OpenClaw</b>
+</td>
 </tr>
 </table>
 
