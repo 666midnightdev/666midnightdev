@@ -13,18 +13,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Log contribution
+      - name: Update activity
         run: |
-          echo "" >> CONTRIBUTING.md
-          echo "---" >> CONTRIBUTING.md
-          echo "**$(date -u +'%Y-%m-%d %H:%M UTC')**" >> CONTRIBUTING.md
-          echo "" >> CONTRIBUTING.md
-          echo "Keep building, keep learning." >> CONTRIBUTING.md
+          echo "" >> .activity
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add CONTRIBUTING.md
-          git diff --staged --quiet || git commit -m "chore: daily log"
+          git add .activity
+          git diff --staged --quiet || git commit -m "chore: update"
           git push

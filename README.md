@@ -231,6 +231,18 @@ class JuniorDev
 
 ---
 
+### 🌟 Random Fact
+
+<div align="center">
+
+*"I debug production ERP systems at midnight and build AI assistants for fun."*
+
+</div>
+
+<br/>
+
+---
+
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b91c1c,100:dc2626&height=100&section=footer)
