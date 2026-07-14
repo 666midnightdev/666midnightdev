@@ -164,14 +164,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=666midnightdev&show_icons=true&theme=radical&bg_color=0d1117&title_color=2da44e&icon_color=2da44e&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=666midnightdev&show_icons=true&theme=radical&bg_color=0d1117&title_color=2da44e&icon_color=2da44e&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=666midnightdev&layout=compact&theme=radical&bg_color=0d1117&title_color=2da44e&text_color=c9d1d9&border_color=30363d&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=666midnightdev&theme=radical&background=0d1117&ring=2da44e&fire=2da44e&currStreakLabel=2da44e&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=666midnightdev&theme=radical&background=0d1117&ring=2da44e&fire=2da44e&currStreakLabel=2da44e&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&include_all_commits=true)
 
 </div>
 
