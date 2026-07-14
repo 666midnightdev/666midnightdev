@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/666midnightdev/666midnightdev/master/pet.svg" width="60"/>
 </div>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=666midnightdev&bg_color=0d1117&color=dc2626&line=dc2626&point=ffffff&area_color=dc2626&area=true&hide_border=false)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=666midnightdev&bg_color=0d1117&color=2da44e&line=2da44e&point=ffffff&area_color=2da44e&area=true&hide_border=false)
 
 <br/>
 
