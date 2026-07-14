@@ -1,0 +1,30 @@
+name: Green Contributions
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+
+jobs:
+  contribute:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Log contribution
+        run: |
+          echo "" >> CONTRIBUTING.md
+          echo "---" >> CONTRIBUTING.md
+          echo "**$(date -u +'%Y-%m-%d %H:%M UTC')**" >> CONTRIBUTING.md
+          echo "" >> CONTRIBUTING.md
+          echo "Keep building, keep learning." >> CONTRIBUTING.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add CONTRIBUTING.md
+          git diff --staged --quiet || git commit -m "chore: daily log"
+          git push
